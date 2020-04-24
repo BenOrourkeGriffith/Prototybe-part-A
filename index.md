@@ -92,14 +92,14 @@ Similar to concept 1 the goal of this game is reach the end of a track. Dependin
 ### Final design concept ###
 Ball Maze Race
 
-My final concept is a ball maze that is a race against a timer.  The micro bit will display an arrow poiting to where the ball needs to travel at the same time the timer will start.  The aim is to reach the goal before the timer runs out.  The ball and goals will both be covered in copper tape or tin foil so that when the ball touches the copper it will send a signal to the micro bit letting it know it has reached the goal. As soon as the ball reaches the goal the timer will restart and point to another goal.  The maze will have rope on either side used to move the ball around. At the current stage the ball will only have 10 seconds to reach each goal. There is a punishement for not reaching the goal eg take a drink.
+My final concept is a ball maze that is a race against a timer.  The micro bit will display an arrow poiting to where the ball needs to travel at the same time the timer will start.  The aim is to reach the goal before the timer runs out.  The ball and goals will both be covered in copper tape or tin foil so that when the ball touches the copper it will send a signal to the micro bit letting it know it has reached the goal. As soon as the ball reaches the goal the timer will restart and point to another goal.  The maze will have rope on either side used to move the ball around. At the current stage the ball will only have 10 seconds to reach each goal. There is a punishement for not reaching the goal eg take a drink. The maze will be made using cardboard. 
 
 ![Image](a9.png)
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+
+![Image](a10.png)
 
 ## Physical experimentation documentation ##
 
@@ -115,5 +115,10 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+1- Obtain materials .
+2- work on incorpirating everthing into the code.
+3- Build project.
+4- make sure everthing works and correwct errors.
+5-film video and submit.
