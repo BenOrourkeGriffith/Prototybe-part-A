@@ -106,8 +106,11 @@ My final concept is a ball maze that is a race against a timer.  The micro bit w
 
 ![Image](a11.JPG)
 
+I am still testing how i want the ball to interact with the timer. Here i am tinkering with how ill have my ball be detected when i make the maze. I am using the time gate setup to see if the call interacts as i want it or if i need other materials i.e. Copper tape.  
 
 ![Image](a12.JPG)
+
+This code is my first attempt at creating code that will pick up when the ball rolls over the conductors. When the microbit is triggered the arrow changes direction pointing to where it wants the ball to travel next. 
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
