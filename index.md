@@ -103,23 +103,28 @@ My final concept is a ball maze that is a race against a timer.  The micro bit w
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](a11.JPG)
+
+
 ![Image](a12.JPG)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+Getting to the point i am now I used lots of advice from my tut and discussion boards. I also used The Double Dimond design methodology.
+I used time we had in tut sessions to bounce ideas off people in order to create a better idea of what i wanted to make. 
+
+Using the Double Dimond method when talking to people in my tut  during the discover phase I found that my project should be able to entertain multiple people. The people I was talking to agreed with the idea. I then using the define phase decided that the  projects goal is to become a competitive game that can be used at parties and other events. For example it can be used as a drinking game.
+I then researched ideas and methods of achieving this method and was inspired my ball mazes and how i could incorporate that into a project that people can be entertained by.  I am now still in the deliver phase and working on the code i will use to achieve the functions i am aiming for with my project.
 
 ## Next steps ##
-1- Obtain materials .
+1- Obtain materials.
+
 2- work on incorpirating everthing into the code.
+
 3- Build project.
+
 4- make sure everthing works and correwct errors.
+
 5-film video and submit.
