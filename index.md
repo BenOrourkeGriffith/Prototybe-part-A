@@ -63,33 +63,38 @@ https://www.youtube.com/watch?v=mnBYkQ9ku8I
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+I have taken inspiration from a toutorial made by Pinkey Pepper the youtube chanel where they have made a maze game the points to where you are required to travel. Although simular in design mine is diffrent in that it has a inbuilt time limit and multiple destinations for the ball to travel. The code will also be diffrent as there are many parts needing to  be added.
 
 ### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://www.youtube.com/watch?v=2JCDVCSQpik
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+My intent is to create a functioning ball maze race with multiple goals and a timer making the game challlenging and fun. 
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 Random number generated boardgame
-The game is designed around the micro bit picking a random number and a player having to move the amount shown by the micro bit.  The micro bit would also show symbols that correlate with a action in the game.  There is a button on the micro bit and depending on how long it is pressed the higher the number will show but this also increases the chances of getting a symbol.  
+
+The game is designed around the micro bit picking a random number and a player having to move the amount shown by the micro bit.  The micro bit would also show symbols that correlate with a action in the game.  There is a button on the micro bit and depending on how long it is pressed the higher the number will show but this also increases the chances of getting a symbol. 
+
+![Image](a7.png)
 
 ### Design concept 2 ###
 Power measurer board game
+
 Similar to concept 1 the goal of this game is reach the end of a track. Depending on how hard the pressure sensor is hit the micro bit will display the distance the player will travel.  It will use a punching bag containing a sensor.
 
+![Image](a8.png)
+
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+Ball Maze Race
 
 My final concept is a ball maze that is a race against a timer.  The micro bit will display an arrow poiting to where the ball needs to travel at the same time the timer will start.  The aim is to reach the goal before the timer runs out.  The ball and goals will both be covered in copper tape or tin foil so that when the ball touches the copper it will send a signal to the micro bit letting it know it has reached the goal. As soon as the ball reaches the goal the timer will restart and point to another goal.  The maze will have rope on either side used to move the ball around. At the current stage the ball will only have 10 seconds to reach each goal. There is a punishement for not reaching the goal eg take a drink.
+
+![Image](a9.png)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
