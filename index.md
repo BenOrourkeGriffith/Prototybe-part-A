@@ -11,32 +11,47 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ### Related project 1 ###
 Timing Gate
-
+![Image](a1.png)
 The micro bit timing gate is a similar concept to my project. The timing gate uses metal plates to pickup when something has been sent across them  and send a message to the micro bit telling it to turn the timer off.  The timing gates code is also similar to the code I will use in my project. The similarities are that the ball in my project will roll onto a conductive platform and turn off and on a timer in the micro bit.
+https://makecode.microbit.org/projects/timing-gates
 
 ### Related project 2 ###
-Kids toy ball maze
-
+ Maze Runner
+ ![Image](a2.png)
+This project relates to my project as it is a maze that is coded to know when the maze has been completed, Similar to my project the micro bit changes when the goal has been complete. this project was used as inspiration.  
+https://tinkercademy.com/tutorials/maze-runner/
 
 ### Related project 3 ###
-Maze Races
+Microbit football
+![Image](a3.png)
+This project relates to my project as it uses a conductive ball to cross a goal that send a messege to the microbit creating a action for example this one keeps the score where mine changes where it wants you to go. 
 
-
+https://www.youtube.com/watch?v=ZNpZgQ5MXwI&feature=youtu.be
 ### Related project 4 ###
 Reaction time microbit game
+![Image](a4.png)
+The Materials used in this project are the same as what my project requires. it uses a conductive material that creatres a action with the microbit. the crocidile clamps are connecting everthing together. 
 
+https://makecode.microbit.org/projects/reaction-time
 
 ### Related project 5 ###
-Microbit direction pointer
+Microbit arrow
+![Image](a5.png)
+The code used in this basic project will be part of the project uising the arrows to point where the ball needs to head next. The arrow in my project will be guids as to where the next goal is. 
+https://www.elecfreaks.com/store/blog/post/micro-bit-fundamental-course-buttondisplay.html
 
 ### Related project 6 ###
 Count Down Timer
 
-*Insert URL to project*
+![Image](a6.png)
 
-![Image](missingimage.png)
+The microbit code seen here will be used to let the player know when they are out of time and how long they have to get there. This code will be mixed with code for the arrows in correlation. 
+https://www.youtube.com/watch?v=mnBYkQ9ku8I
 
-This project is related to mine because *insert reasons here*.
+
+
+
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
