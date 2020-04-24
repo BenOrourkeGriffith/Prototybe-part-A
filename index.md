@@ -19,7 +19,7 @@ https://makecode.microbit.org/projects/timing-gates
 ### Related project 2 ###
  Maze Runner
  
- ![Image](a2.png)
+ ![Image](a2.JPG)
  
 This project relates to my project as it is a maze that is coded to know when the maze has been completed, Similar to my project the micro bit changes when the goal has been complete. this project was used as inspiration.  
 https://tinkercademy.com/tutorials/maze-runner/
@@ -27,7 +27,7 @@ https://tinkercademy.com/tutorials/maze-runner/
 ### Related project 3 ###
 Microbit football
 
-![Image](a3.png)
+![Image](a3.JPG)
 
 This project relates to my project as it uses a conductive ball to cross a goal that send a messege to the microbit creating a action for example this one keeps the score where mine changes where it wants you to go. 
 
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=ZNpZgQ5MXwI&feature=youtu.be
 ### Related project 4 ###
 Reaction time microbit game
 
-![Image](a4.png)
+![Image](a4.JPG)
 
 The Materials used in this project are the same as what my project requires. it uses a conductive material that creatres a action with the microbit. the crocidile clamps are connecting everthing together. 
 
@@ -44,7 +44,7 @@ https://makecode.microbit.org/projects/reaction-time
 ### Related project 5 ###
 Microbit arrow
 
-![Image](a5.png)
+![Image](a5.JPG)
 
 The code used in this basic project will be part of the project uising the arrows to point where the ball needs to head next. The arrow in my project will be guids as to where the next goal is. 
 https://www.elecfreaks.com/store/blog/post/micro-bit-fundamental-course-buttondisplay.html
@@ -52,7 +52,7 @@ https://www.elecfreaks.com/store/blog/post/micro-bit-fundamental-course-buttondi
 ### Related project 6 ###
 Count Down Timer
 
-![Image](a6.png)
+![Image](a6.JPG)
 
 The microbit code seen here will be used to let the player know when they are out of time and how long they have to get there. This code will be mixed with code for the arrows in correlation. 
 https://www.youtube.com/watch?v=mnBYkQ9ku8I
@@ -80,26 +80,26 @@ Random number generated boardgame
 
 The game is designed around the micro bit picking a random number and a player having to move the amount shown by the micro bit.  The micro bit would also show symbols that correlate with a action in the game.  There is a button on the micro bit and depending on how long it is pressed the higher the number will show but this also increases the chances of getting a symbol. 
 
-![Image](a7.png)
+![Image](a7.JPG)
 
 ### Design concept 2 ###
 Power measurer board game
 
 Similar to concept 1 the goal of this game is reach the end of a track. Depending on how hard the pressure sensor is hit the micro bit will display the distance the player will travel.  It will use a punching bag containing a sensor.
 
-![Image](a8.png)
+![Image](a8.JPG)
 
 ### Final design concept ###
 Ball Maze Race
 
 My final concept is a ball maze that is a race against a timer.  The micro bit will display an arrow poiting to where the ball needs to travel at the same time the timer will start.  The aim is to reach the goal before the timer runs out.  The ball and goals will both be covered in copper tape or tin foil so that when the ball touches the copper it will send a signal to the micro bit letting it know it has reached the goal. As soon as the ball reaches the goal the timer will restart and point to another goal.  The maze will have rope on either side used to move the ball around. At the current stage the ball will only have 10 seconds to reach each goal. There is a punishement for not reaching the goal eg take a drink. The maze will be made using cardboard. 
 
-![Image](a9.png)
+![Image](a9.JPG)
 
 ### Interaction flowchart ###
 
 
-![Image](a10.png)
+![Image](a10.JPG)
 
 ## Physical experimentation documentation ##
 
@@ -110,7 +110,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](a11.JPG)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
