@@ -4,14 +4,33 @@ You will use this workbook to keep track of your progress through the course and
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Ball Maze Race. ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+Timing Gate
+
+The micro bit timing gate is a similar concept to my project. The timing gate uses metal plates to pickup when something has been sent across them  and send a message to the micro bit telling it to turn the timer off.  The timing gates code is also similar to the code I will use in my project. The similarities are that the ball in my project will roll onto a conductive platform and turn off and on a timer in the micro bit.
+
+### Related project 2 ###
+Kids toy ball maze
+
+
+### Related project 3 ###
+Maze Races
+
+
+### Related project 4 ###
+Reaction time microbit game
+
+
+### Related project 5 ###
+Microbit direction pointer
+
+### Related project 6 ###
+Count Down Timer
 
 *Insert URL to project*
 
