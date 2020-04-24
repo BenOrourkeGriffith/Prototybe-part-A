@@ -11,7 +11,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 ### Related project 1 ###
 Timing Gate
 
-![Image](a1.png)
+![Image](a1.JPG)
 
 The micro bit timing gate is a similar concept to my project. The timing gate uses metal plates to pickup when something has been sent across them  and send a message to the micro bit telling it to turn the timer off.  The timing gates code is also similar to the code I will use in my project. The similarities are that the ball in my project will roll onto a conductive platform and turn off and on a timer in the micro bit.
 https://makecode.microbit.org/projects/timing-gates
